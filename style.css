@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid gray;
+    width: 220px;
+    margin: auto;
+}
+.input{
+    width: 95%;
+    border: none;
+    background-color: black;
+    color: white;
+    margin: 5px;;
+}
+.btn{
+    width: 21%;
+    margin: 2px;;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
